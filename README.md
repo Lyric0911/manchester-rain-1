@@ -2,7 +2,7 @@
 
 About Manchester's weather.
 
-It is not chill today and the instructor was nice.
+It is not cold today and the instructor was nice.
 
 
 
